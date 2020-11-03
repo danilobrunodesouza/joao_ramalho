@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.JoaoRamalho" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/azul_JR</item>
+        <item name="colorPrimaryVariant">@color/cinza_claro_JR</item>
+        <item name="colorOnPrimary">@color/cinza_escuro_JR</item>
+        <!-- Status bar color. -->
+
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">João Ramalho</string>
+    <string name="botao_cancelar_agendamento_main">Cancelar Agendamento de Entrevista</string>
+    <string name="botao_agenda_entrevista_main">Agendar Entrevista</string>
+    <string name="botao_caixinha_vibracao_main">Caixinha de Vibração</string>
+
+    <string name="label_nome_caixinha_vibracao">Nome Completo</string>
+    <string name="botao_enviar_caixinha_vibracao">Incluir na Caixinha de Vibração</string>
+</resources>
